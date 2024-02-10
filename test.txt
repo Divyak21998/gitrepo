@@ -1,11 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is 5C73-C717
-
- Directory of C:\Users\HP\OneDrive\Desktop\gitfolder
-
-10-02-2024  21:18    <DIR>          .
-10-02-2024  21:07    <DIR>          ..
-10-02-2024  21:18               354 test.java
-10-02-2024  21:18                 0 test.txt
-               2 File(s)            354 bytes
-               2 Dir(s)  132,804,673,536 bytes free
+ Hii hello how r u
